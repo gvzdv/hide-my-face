@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding-top: 80px; /* Adjust padding to avoid content overlapping the fixed header */
+    padding-top: 80px;
     background-color: #f0f0f0;
 }
 
@@ -64,7 +64,7 @@ button:hover {
     padding: 20px;
     background-color: white;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    margin-top: 80px; /* Adjusted to avoid overlap with fixed header */
+    margin-top: 80px;
 }
 
 .modal {
